@@ -1,4 +1,7 @@
-# rgbxmastree
+# Project - xmasstree 
+
+The PiHut 3D Xmas Tree
+rgbxmastree  https://github.com/ThePiHut/rgbxmastree.gi
 
 Code examples for the RGB Xmas Tree
 
