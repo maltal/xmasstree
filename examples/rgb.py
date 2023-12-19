@@ -1,6 +1,8 @@
-from tree import RGBXmasTree
-from colorzero import Color
 from time import sleep
+
+from colorzero import Color
+
+from tree import RGBXmasTree
 
 tree = RGBXmasTree()
 

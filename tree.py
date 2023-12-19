@@ -1,7 +1,7 @@
-from gpiozero import SPIDevice, SourceMixin
-from colorzero import Color, Hue
 from statistics import mean
-from time import sleep
+
+from colorzero import Color
+from gpiozero import SPIDevice, SourceMixin
 
 
 class Pixel:
