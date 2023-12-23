@@ -104,6 +104,6 @@ class RGBXmasTree(SourceMixin, SPIDevice):
 
 if __name__ == '__main__':
     tree = RGBXmasTree()
-    tree.brightness(10)
+#    tree.brightness(9.5)
 
     tree.on()
