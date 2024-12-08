@@ -11,5 +11,6 @@ try:
         for color in colors:
             for pixel in tree:
                 pixel.color = color
+
 except KeyboardInterrupt:
     tree.close()

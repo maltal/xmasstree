@@ -14,5 +14,6 @@ try:
     while True:
         pixel = random.choice(tree)
         pixel.color = random_color()
+
 except KeyboardInterrupt:
     tree.close()
